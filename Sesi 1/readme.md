@@ -18,9 +18,9 @@ summary/kesimpulan setiap sesi :
   - Aritmatika(+,-,*,/,%)
   - Logika(==, !=, <, >, =>, =<)
   - Relasional(||, &&, !)
-- Dasar dasar github
-
-
-tugas : .....
-assigment 1 : ......
+- Dasar dasar github  
+  
+  
+tugas : .....  
+assigment 1 : ......  
 github :https://github.com/reader00/DTS-Hacktiv8-Golang/tree/master/Sesi%201
