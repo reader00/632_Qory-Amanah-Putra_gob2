@@ -1,5 +1,5 @@
-kode peserta 	: 149368582101-632
-nama lengkap 	: Qory Amanah Putra
+kode peserta 	: 149368582101-632  
+nama lengkap 	: Qory Amanah Putra  
 summary/kesimpulan setiap sesi :
 - Pengenalan bahasa pemograman Golang
 - Instalasi Golang
