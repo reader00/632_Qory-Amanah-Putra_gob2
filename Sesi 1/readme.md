@@ -18,6 +18,7 @@ summary/kesimpulan setiap sesi :
 >> Aritmatika(+,-,*,/,%)
 >> Logika(==, !=, <, >, =>, =<)
 >> Relasional(||, &&, !)
+> Dasar dasar github
 
 
 tugas : .....
